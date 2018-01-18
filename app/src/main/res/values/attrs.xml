@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WeekView">
+        <attr name="wv_textColor" format="color|reference"/>
+        <attr name="wv_textSize" format="dimension|reference"/>
+    </declare-styleable>
+
+</resources>
